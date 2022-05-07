@@ -426,6 +426,7 @@ list(APPEND SOURCE_FILES
         ## Watch faces
         displayapp/icons/bg_clock.c
         displayapp/screens/WatchFaceAnalog.cpp
+        displayapp/screens/WatchFaceBlocks.cpp
         displayapp/screens/WatchFaceDigital.cpp
         displayapp/screens/WatchFaceInfineat.cpp
         displayapp/screens/WatchFaceTerminal.cpp
